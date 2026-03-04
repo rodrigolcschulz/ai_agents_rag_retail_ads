@@ -1,6 +1,6 @@
 # RAG - Assistente de Marketplace
 
-**MelancIA** é um agente de IA especializado em Product Ads e E-commerce, desenvolvido pela Conecta Ads.
+Agente de IA especializado em Product Ads
 
 ## 🚀 Funcionalidades
 
