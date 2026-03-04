@@ -24,7 +24,7 @@ Agente de IA especializado em Product Ads
 
 ```bash
 # Clone o repositório
-git clone https://github.com/conectaads/melancia-ai-rag.git
+git clone https://github.com/rodrigolcschulz/ai_agents_rag_retail_ads.git
 cd melancia-ai-rag
 
 # Crie e ative o ambiente virtual
@@ -148,7 +148,7 @@ O MelancIA mantém um sistema completo de logs:
 
 ## 🧠 Como Funciona o RAG
 
-O MelancIA utiliza uma arquitetura RAG (Retrieval-Augmented Generation) sofisticada:
+O Agente utiliza uma arquitetura RAG (Retrieval-Augmented Generation) sofisticada:
 
 1. **📚 Base de Conhecimento**: Conteúdo do blog Conecta Ads + Central de Vendedores do Mercado Livre
 2. **🔍 Embeddings**: Transforma o conteúdo em vetores usando OpenAI embeddings (text-embedding-3-small)
