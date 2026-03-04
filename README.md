@@ -442,10 +442,6 @@ report = evaluator.generate_report(results)
 
 Apache License 2.0 - veja [LICENSE](LICENSE) para detalhes.
 
-## 🤝 Contribuição
-
-Desenvolvido por [Conecta Ads](https://conectaads.com.br)
-
 ---
 
 **🍉 Transformando perguntas em estratégias de sucesso no Retail Media!**
